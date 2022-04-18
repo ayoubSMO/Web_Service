@@ -38,7 +38,11 @@
 
 <p>Géneration de WSDL par ligne commade</p>
 
-<p>D'emarage du web service</p>
-
 ![3_10_Generation de WSDL ligne commande](https://user-images.githubusercontent.com/84507906/163735974-aaaebadd-8000-4276-86c0-b03c65fcc25a.png)
+
+<p>fetsh data avec Client PHP </p>
+
+![php](https://user-images.githubusercontent.com/84507906/163741378-73ad9a74-7148-4f32-830f-305290226a81.png)
+
+
 
